@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Grummus!
 
-<img align="right" height="60" width="60" alt="" src="" />
+<img align="right" height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/33434467?v=4" />
 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCe7Ha4RBG3YxMo-m9CMv-MQ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GrumGrumGrummus)
