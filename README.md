@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Grummus!
 
-<img align="right" height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/33434467?v=4" />
-
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCe7Ha4RBG3YxMo-m9CMv-MQ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GrumGrumGrummus)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Grummus)
@@ -13,7 +11,7 @@ Hope you enjoy looking around
 
 
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
+<img align="right" height="215" alt="" src="https://github.com/Grummus/Grummus/blob/main/GrumHorse.gif" />
 
 
 ### Some Highlights:
