@@ -18,7 +18,8 @@ Hope you enjoy looking around
 
 ### Some Highlights:
 
-- 📌 &nbsp; [OwoBot2](https://github.com/Grummus/owobot2)
+- 📌 &nbsp; [Owobot2](https://github.com/Grummus/owobot2)
+- 📌 &nbsp; [BetterLoadingScreen](https://github.com/Grummus/BetterLoadingScreen)
 
 ### Languages and Tools:
 
