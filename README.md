@@ -18,7 +18,7 @@
 
 ### Some Highlights:
 
-- 📌 &nbsp; [OwoBot2](github.com/Grummus/owobot2)
+- 📌 &nbsp; [OwoBot2](https://github.com/Grummus/owobot2)
 
 ### Languages and Tools:
 
