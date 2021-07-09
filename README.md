@@ -57,9 +57,9 @@
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
-- Browser: Brave Browser
-- Code Editor: VSCode - The best editor out there
+- Laptop: MSI Apache Pro
+- Browser: Chrome (I'm a basic bish)
+- Code Editor: VSCode
 - Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
 
 ---
