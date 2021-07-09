@@ -8,10 +8,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Grummus&label=Views&color=blue&style=plastic) 
 
-(insert some stuff here)
+I make really bad code for really dumb purposes. I have an idea, black out for a week, and then somehow code appears on screen!  
+Hope you enjoy looking around
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
