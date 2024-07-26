@@ -43,14 +43,6 @@ Hope you enjoy looking around
 </a>
 </p>
 
----
-
-### ⚙️ My Resources & Tools:
-
-- OS: Windows 10
-- Laptop: MSI Apache Pro
-- Browser: Chrome (I'm a basic bish)
-- Code Editor: VSCode
 
 ---
 
